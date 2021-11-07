@@ -1,0 +1,19 @@
+.card_alignments{
+  display: flex;
+  
+}
+
+.bgcyan{
+  background-color: rgb(3, 163, 163);
+}
+.navbar {
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+.bg-blue{
+  background-color: rgb(25, 25, 136);
+}
+.navbar ul li a{
+  font-weight: 300;
+  
+}
